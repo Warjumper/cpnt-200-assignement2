@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_user_data_account_infos",
+  "info": {
+    "displayName": "AccountInfo",
+    "icon": "user-cog"
+  },
+  "options": {},
+  "attributes": {
+    "Username": {
+      "type": "string"
+    },
+    "Password": {
+      "type": "password"
+    },
+    "Email": {
+      "type": "email"
+    },
+    "Address1": {
+      "type": "string"
+    },
+    "Address2": {
+      "type": "string"
+    },
+    "City": {
+      "type": "string"
+    },
+    "PostalCode": {
+      "type": "string"
+    }
+  }
+}

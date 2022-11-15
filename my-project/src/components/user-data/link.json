@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_user_data_links",
+  "info": {
+    "displayName": "Link",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "LinkText": {
+      "type": "string"
+    },
+    "LinkURL": {
+      "type": "string"
+    }
+  }
+}
