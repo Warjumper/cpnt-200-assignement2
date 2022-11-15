@@ -1,6 +1,6 @@
 # Strapi Project and Model
 ## cpnt-200-assignment 2
-### BY Jesse H
+### By Jesse H
 
 ## Summary
 National is a restaurant & entertainment venue inspired by North American tastes, with games and events, extraordinary food, and select craft beers. A place filled with Calgarians who embrace being Calgarian, National is the ideal place to unwind with friends, host a private event, or soak up the sun on a patio.
