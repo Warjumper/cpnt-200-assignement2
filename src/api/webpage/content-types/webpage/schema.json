@@ -1,0 +1,53 @@
+{
+  "kind": "singleType",
+  "collectionName": "webpages",
+  "info": {
+    "singularName": "webpage",
+    "pluralName": "webpages",
+    "displayName": "Homepage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HeaderText": {
+      "type": "string"
+    },
+    "HeaderLogo": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Navigation": {
+      "type": "string"
+    },
+    "MainContent": {
+      "type": "richtext"
+    },
+    "MainContentMedia": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Booking": {
+      "type": "datetime"
+    },
+    "Footer": {
+      "type": "string"
+    }
+  }
+}

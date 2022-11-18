@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "aboutpages",
+  "info": {
+    "singularName": "aboutpage",
+    "pluralName": "aboutpages",
+    "displayName": "EventBookings",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HeadingText": {
+      "type": "string"
+    },
+    "Navigation": {
+      "type": "string"
+    },
+    "MainContent": {
+      "type": "richtext"
+    },
+    "MainContentMedia": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "Reserve": {
+      "type": "datetime"
+    },
+    "Subscribe": {
+      "type": "email"
+    },
+    "Footer": {
+      "type": "string"
+    }
+  }
+}

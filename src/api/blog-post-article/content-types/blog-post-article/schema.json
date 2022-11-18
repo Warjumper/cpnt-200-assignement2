@@ -1,0 +1,38 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blog_post_articles",
+  "info": {
+    "singularName": "blog-post-article",
+    "pluralName": "blog-post-articles",
+    "displayName": "Blog post/article",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Body": {
+      "type": "richtext"
+    },
+    "Date": {
+      "type": "date"
+    },
+    "LinkURL": {
+      "type": "string"
+    },
+    "FoodPic": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -14,3 +14,8 @@ In addition to the food and drinks, you can settle old scores on the ping pong a
 ## Potential Sitemap
 ![](https://i.imgur.com/OE2bAlj.png)
 
+
+## Attributions
+- All images from https://www.pexels.com/
+- Food articles/blogs from https://roadfood.com/dishes/
+- Menu items and photos from National
